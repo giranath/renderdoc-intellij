@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.giranath.renderdocintellij.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.giranath.renderdocintellij.MyBundle
 
 class MyApplicationService {
 
